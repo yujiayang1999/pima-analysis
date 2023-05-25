@@ -25,3 +25,11 @@ Figure 4.8 is generated from opposite2D_pima_heatmap.ipynb.
 1. Trains a simple 3-layer neural network on the pima dataset
 2. Provides Data centric explanation like outlier detection
 3. Provides double feature class contrastive analysis
+
+# Quick Install
+
+```python
+
+pip install -r requirements.txt
+
+```
