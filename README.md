@@ -29,6 +29,13 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 # Files
 
+`2D_pima_heatmap.ipynb` does the following things
+
+1. Trains a simple 3-layer neural network on the pima dataset
+2. Provides Data centric explanation like outlier detection
+3. Provides double feature class contrastive analysis
+
+
 Figure 3.1 is generated in `pima_heatmap.ipynb`.
 
 Figure 4.1 is generated from `pima_heatmap.ipynb`.
@@ -43,13 +50,6 @@ Figure 4.7 is generated from `2D_pima_heatmap.ipynb`.
 
 Figure 4.8 is generated from `opposite2D_pima_heatmap.ipynb`.
 
-
-
-`2D_pima_heatmap.ipynb` does the following things
-
-1. Trains a simple 3-layer neural network on the pima dataset
-2. Provides Data centric explanation like outlier detection
-3. Provides double feature class contrastive analysis
 
 
 # Manuscript and citation
