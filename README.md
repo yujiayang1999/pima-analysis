@@ -6,6 +6,27 @@ In addition to this approach, Mark W. Craven and Jude W. Shavlik proposed extrac
 
 We use the TREPAN implementation in "Extracting tree-structured representations of trained networks" : Craven,Shavlik 1993 from github user: @abarthakur.
 
+
+# Quick Install
+
+Install Anaconda (Python distribution)
+
+and install all packages by running the following command at the Terminal
+
+```python
+
+pip install -r requirements.txt
+
+```
+
+
+# Data
+
+Download the data from
+
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+
 # Files
 
 Figure 3.1 is generated in `pima_heatmap.ipynb`.
@@ -30,15 +51,16 @@ Figure 4.8 is generated from `opposite2D_pima_heatmap.ipynb`.
 2. Provides Data centric explanation like outlier detection
 3. Provides double feature class contrastive analysis
 
-# Quick Install
 
-```python
+# Manuscript and citation
 
-pip install -r requirements.txt
-
-```
+Forthcoming
 
 # Contact
 
 Yujia Yang and Soumya Banerjee
+
+# References
+
+1. Banerjee S, Lio P, Jones PB, Cardinal RN (2021) A class-contrastive human-interpretable machine learning approach to predict mortality in severe mental illness. npj Schizophr 7: 1–13.
 
