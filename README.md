@@ -1,13 +1,17 @@
 # Class Contrastive Explanations and Generating Complex Stories from Machine Learning Models
 
-In order to provide a better explanability for machine learning models in healthcare are. We provide an implementation for class contrastive analysis for Pima dataset.
+In order to provide a better explanability for machine learning models in healthcare are, we provide an implementation for class contrastive analysis for Pima dataset.
+
+Class contrastive analysis is a technique to explain black-box machine learning models [1].
 
 In addition to this approach, Mark W. Craven and Jude W. Shavlik proposed extracting Thee-Structured representations of trained networks in 1993.
 
 We use the TREPAN implementation in "Extracting tree-structured representations of trained networks" : Craven,Shavlik 1993 from github user: @abarthakur.
 
+https://github.com/abarthakur/trepan_python
 
-# Quick Install
+
+# Quick Installation
 
 Install Anaconda (Python distribution)
 
@@ -55,6 +59,7 @@ Figure 4.8 is generated from `opposite2D_pima_heatmap.ipynb`.
 # Manuscript and citation
 
 Forthcoming
+
 
 # Contact
 
